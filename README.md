@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+![my-gpt-reader-logo-1-removebg](https://user-images.githubusercontent.com/16165346/233251106-6c6e1c03-06c0-42e4-94fe-ef1c47f881cc.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
